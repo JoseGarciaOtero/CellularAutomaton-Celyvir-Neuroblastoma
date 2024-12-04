@@ -37,7 +37,7 @@ The code allows researchers to perform simulations under various treatment condi
    - `moveImmuneCells.m`: Moves the immune cells through the environment.
    - `calculateCellDivision.m`: Determines how cells should divide based on the current conditions.
 
-6. The `calculate_error_automaton.m` file calculates the error associated with the cellular automaton, but only for the tumour cell population. This error is computed relative to the configuration of tumour cells in the main simulation (`simulateCellularAutomaton.m`).
+6. The `calculateErrorAutomaton.m` file calculates the error associated with the cellular automaton, but only for the tumour cell population. This error is computed relative to the configuration of tumour cells in the main simulation (`simulateCellularAutomaton.m`).
 
 The code is well-commented and designed to follow step-by-step instructions. The main files have a brief description at the beginning to help understand their purpose and guide you through the process.
 
