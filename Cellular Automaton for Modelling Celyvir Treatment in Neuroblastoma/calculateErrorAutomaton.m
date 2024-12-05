@@ -1,4 +1,4 @@
-% This MATLAB script, calculate_error_automaton, is designed to calculate 
+% This MATLAB script, calculataErrorAutomaton, is designed to calculate 
 % the error and the standard deviation associated with the tumor population
 % in a probabilistic cellular automaton model. The function runs
 % "num_simulations" simulations using the same configuration defined in the
