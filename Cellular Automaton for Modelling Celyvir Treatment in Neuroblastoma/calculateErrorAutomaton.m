@@ -9,7 +9,7 @@
 % and uncertainty of the model.
 
 
-function [times_with_data, mean_results, std_results] = calculate_error_automaton()
+function [times_with_data, mean_results, std_results] = calculateErrorAutomaton()
     profile on;
 
     % Number of simulations to perform
