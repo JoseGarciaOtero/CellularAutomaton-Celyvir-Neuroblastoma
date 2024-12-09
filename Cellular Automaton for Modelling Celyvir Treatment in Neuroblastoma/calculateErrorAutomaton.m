@@ -33,8 +33,8 @@ function [times_with_data, mean_results, std_results] = calculateErrorAutomaton(
         % Get the data for the results at time k for all simulations
         time_results = nan(1, num_simulations); % Initialise with NaN to represent missing values
         for j = 1:num_simulations
-            if isfield(simulation_results{j}(k), 'total_tumours') && ~isempty(simulation_results{j}(k).total_tumours)
-                time_results(j) = simulation_results{j}(k).total_tumours;
+            if isfield(simulation_results{j}(k), 'totalTumourCells') && ~isempty(simulation_results{j}(k).totalTumourCells)
+                time_results(j) = simulation_results{j}(k).totalTumourCells;
             end
         end
 
