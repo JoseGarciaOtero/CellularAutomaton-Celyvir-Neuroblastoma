@@ -4,7 +4,7 @@ This repository contains the code for the cellular automaton developed in **Matl
 
 **Exploring Neuroblastoma’s Cellular Microenvironment: A Novel Approach Using Cellular Automata to Model Celyvir Treatment**  
 *Authors: José Garcia Otero, Juan Belmonte-Beitia, Juan Jiménez Sánchez*  
-*Under revision in Computers in Biology and Medicine*.
+*To be aired*.
 
 ## About the Cellular Automaton
 
@@ -46,6 +46,6 @@ The code is well-commented and designed to follow step-by-step instructions. The
 If you use this code in your research, **please reference the original article**:  
 > José Garcia Otero, Juan Belmonte-Beitia, Juan Jiménez Sánchez.  
 > *Exploring Neuroblastoma’s Cellular Microenvironment: A Novel Approach Using Cellular Automata to Model Celyvir Treatment*.  
-> *Expected to be published in Computers in Biology and Medicine*.
+> *To be aired*.
 
 Your acknowledgment of this work helps us ensure proper credit for the efforts involved in developing the model. Thank you for your cooperation!
