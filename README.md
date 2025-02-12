@@ -49,4 +49,6 @@ If you use this code in your research, **please reference the original article**
 
 > doi: [10.1016/j.compbiomed.2025.109782.](https://doi.org/10.1016/j.compbiomed.2025.109782)
 
-Your acknowledgment of this work helps us ensure proper credit for the efforts involved in developing the model. Thank you for your cooperation!
+Your acknowledgment of this work helps us ensure proper credit for the efforts involved in developing the model. 
+
+Thank you for your cooperation!
