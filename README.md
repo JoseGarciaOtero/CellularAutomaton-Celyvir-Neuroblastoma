@@ -2,11 +2,8 @@
 
 This repository contains the code for the cellular automaton developed in **Matlab** to simulate the interactions between cancer cells, immune cells, and the oncolytic virus ICOVIR-5 encapsulated in mesenchymal stem cells (MSC) in the context of neuroblastoma treatment with Celyvir. This code accompanies the forthcoming research article:
 
-**Exploring Neuroblastoma’s Cellular Microenvironment: A Novel Approach Using Cellular Automata to Model Celyvir Treatment**  
-*Authors: José Garcia Otero, Juan Belmonte-Beitia, Juan Jiménez-Sánchez*  
-*Computers in Biology and Medicine, 188:109782, 2025.*
-
-*URL: https://www.sciencedirect.com/science/article/pii/S0010482525001325?dgcid=author*
+> José Garcia Otero, Juan Belmonte-Beitia, Juan Jiménez Sánchez.  
+> *Exploring Neuroblastoma’s Cellular Microenvironment: A Novel Approach Using Cellular Automata to Model Celyvir Treatment. Computers in Biology and Medicine, 188 (2025): 109782.*
 
 
 ## About the Cellular Automaton
@@ -47,8 +44,9 @@ The code is well-commented and designed to follow step-by-step instructions. The
 ## Citation
 
 If you use this code in your research, **please reference the original article**:  
-> José Garcia Otero, Juan Belmonte-Beitia, Juan Jiménez Sánchez.  
-> *Exploring Neuroblastoma’s Cellular Microenvironment: A Novel Approach Using Cellular Automata to Model Celyvir Treatment*.  
-> *To be aired*.
+
+> *García Otero, José, Belmonte-Beitia, Juan, Jiménez Sánchez, Juan. Exploring Neuroblastoma’s Cellular Microenvironment: A Novel Approach Using Cellular Automata to Model Celyvir Treatment. Computers in Biology and Medicine, 188 (2025): 109782.*
+
+> doi: [10.1016/j.compbiomed.2025.109782.](https://doi.org/10.1016/j.compbiomed.2025.109782)
 
 Your acknowledgment of this work helps us ensure proper credit for the efforts involved in developing the model. Thank you for your cooperation!
